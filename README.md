@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @valerico1984. I'm web developer front-end.
-My hard skills are: HTML, CSS, JavaScript, Git.
-My soft skills are team working, communication habilities, responsability, empathy, autonomy and organization.
+- 👋 Hi, I’m @valerico1984. I'm web developer full-stack.
+My hard skills are: HTML, CSS, JavaScript, React, Git, NodeJs, Express, MongoDB.
+My soft skills are team working, communication habilities, responsibility, empathy, autonomy and organization.
 - 👀 I’m interested in developing websites and solve problems with code.
-- 🌱 I’m currently learning frameworks as React.
+- 🌱 I’m currently practicing Back-End.
 - 💞️ I’m looking to collaborate on projects and new challenges.
 - 📫 How to reach me: send me an email: valeroxanarico@gmail.com
 
